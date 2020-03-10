@@ -1,1 +1,2 @@
-# Predict-Monthly-Charge-Volume-of-QB-Customers
+# Predict-Monthly-Charge-Volume-of-Customers
+I predicted monthly charge volume using linear regression alogorithm
